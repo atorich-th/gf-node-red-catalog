@@ -1,0 +1,22 @@
+{
+  "name": "GreenFuture private Node-RED nodes catalog",
+  "updated_at": "2024-11-18T02:34:14.091Z",
+  "modules": [
+    {
+      "id": "@greenfuture/node-red-contrib-ui-time-scheduler",
+      "version": "1.17.2-gf",
+      "description": "A ui time scheduler for the Node-RED Dashboard",
+      "keywords": [
+        "node-red",
+        "time-scheduler",
+        "schedules",
+        "timer",
+        "dashboard",
+        "frontend",
+        "iot"
+      ],
+      "url": "https://gitlab.com/greenfutureglobal/farm/node-red-contrib-ui-time-scheduler.git",
+      "updated_at": "2024-11-18T02:34:14.091Z",
+    }
+  ]
+}
